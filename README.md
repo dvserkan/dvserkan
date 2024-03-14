@@ -1,6 +1,5 @@
 ### Hi there 👋, Serkan Çakır
 #### .Net Junior Developer
-![.Net Junior Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Merhabalar Ben Serkan,
 
