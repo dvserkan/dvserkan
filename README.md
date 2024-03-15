@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 ### I'm Serkan Çakır
-#### .Net Junior Developer Geliştiricisiyim.
+#### .Net Junior Developer
 
 Skills: HTML / CSS / C# / .NET CORE / T-SQL
 
