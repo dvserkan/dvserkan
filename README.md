@@ -20,7 +20,7 @@
 - 💻 Next.js, React, Node.js, TypeScript, Vue.js, Nuxt.js, .NET Core ve React Native ile projeler geliştiriyorum
 - 🐧 Linux server yönetimi konusunda deneyimliyim
 - 💬 Full Stack geliştirme ve mimari tasarım konularında benimle iletişime geçebilirsiniz
-- 🔍 Yeni projeler ve iş birliklerine açığım
+  /*- 🔍 Yeni projeler ve iş birliklerine açığım*\
 
 ## 🛠️ Yetenekler
 
